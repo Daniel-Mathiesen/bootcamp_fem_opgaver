@@ -51,4 +51,5 @@ label {
 
 #buttons button:focus {
 	outline: none;
+	background: green;
 }
