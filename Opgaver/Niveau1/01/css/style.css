@@ -43,11 +43,15 @@ label {
 
 #my-button {
 	padding: 8px;
-	background-color: #eee;
 	border: 1px solid #aaa;
 	border-radius: 5px;
 }
 
-#my-button:focus {
+#my-button:active {
 	outline: none;
+	
+}
+
+.green{
+	background-color: green;
 }
